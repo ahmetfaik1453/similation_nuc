@@ -1,0 +1,17 @@
+Simulation Results:,Summary Statistics
+
+Configuration:
+field_type,solenoid
+field_strength,5.0
+shield_radius,100.0
+shield_height,200.0
+blast_yield,20.0
+source_distance,1000.0
+particle_count,1000
+field_parameters
+,n_turns,1000
+,current,1000.0
+,radius,100.0
+,length,200.0
+
+Particle Type,Count,Mean,Std Dev,Median,Min,Max
